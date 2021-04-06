@@ -1,2 +1,35 @@
-# nowcoder-cpp-awesome2020
-牛客网2020年C++精华面经汇总
+# 牛客网2020年C++精华面经汇总
+1. [字节跳动 后端开发实习生 一面+二面+三面+HR面 面经](https://www.nowcoder.com/discuss/365559?from=gitnowcoder2021)
+2. [一年半经验社招历程  持续更新  已打算签深信服](https://www.nowcoder.com/discuss/377020?from=gitnowcoder2021)
+3. [【社招】C/C++和嵌入式方向](https://www.nowcoder.com/discuss/383972?from=gitnowcoder2021)
+4. [通信专业转CS收获BAT等20+offer学习路线分析](https://www.nowcoder.com/discuss/384433?from=gitnowcoder2021)
+5. [（后端实习）字节跳动+腾讯面经（已拿字节offer）](https://www.nowcoder.com/discuss/389392?from=gitnowcoder2021)
+6. [腾讯IEG后台开发实习（C++）面经](https://www.nowcoder.com/discuss/392847?from=gitnowcoder2021)
+7. [腾讯C++后台开发实习面经（已拿offer）](https://www.nowcoder.com/discuss/398214?from=gitnowcoder2021)
+8. [C++后端开发-一些面经](https://www.nowcoder.com/discuss/399396?from=gitnowcoder2021)
+9. [本科毕业半年裸辞，疫情期间准备和面经](https://www.nowcoder.com/discuss/400817?from=gitnowcoder2021)
+10. [阿里巴巴C++开发实习面经（已拿offer）](https://www.nowcoder.com/discuss/403803?from=gitnowcoder2021)
+11. [百度服务器/后台开发一、二、三面面经(已拿offer)](https://www.nowcoder.com/discuss/405646?from=gitnowcoder2021)
+12. [春招总结：30天上岸百度研发（附面经）](https://www.nowcoder.com/discuss/410261?from=gitnowcoder2021)
+13. [【微软社招】sharePoint组苏州七面败北，分享经验](https://www.nowcoder.com/discuss/412311?from=gitnowcoder2021)
+14. [来自一个二本C++菜鸡的秋招春招面经经历，累了，对不起](https://www.nowcoder.com/discuss/412546?from=gitnowcoder2021)
+15. [腾讯后台开发实习提前批面经](https://www.nowcoder.com/discuss/412932?from=gitnowcoder2021)
+16. [腾讯音乐后台社招一面面经](https://www.nowcoder.com/discuss/420177?from=gitnowcoder2021)
+17. [实习春招结束，记录下面经回馈牛客，希望能帮到大家](https://www.nowcoder.com/discuss/423187?from=gitnowcoder2021)
+18. [暑期实习春招面经回馈（阿里美团百度字节快手谷歌亚马逊）](https://www.nowcoder.com/discuss/424050?from=gitnowcoder2021)
+19. [20Fall留学渣渣的后端春招总结](https://www.nowcoder.com/discuss/435146?from=gitnowcoder2021)
+20. [小米社招1+2+3面（C/C++）](https://www.nowcoder.com/discuss/435308?from=gitnowcoder2021)
+21. [分享一下秋招开始到现在的面经](https://www.nowcoder.com/discuss/456499?from=gitnowcoder2021)
+22. [秋招回忆录](https://www.nowcoder.com/discuss/485229?from=gitnowcoder2021)
+23. [字节5面刚面完，分享一波秋招到现在的面经](https://www.nowcoder.com/discuss/495290?from=gitnowcoder2021)
+24. [字节跳动五轮技术面终于收获意向书（后端开发）](https://www.nowcoder.com/discuss/502161?from=gitnowcoder2021)
+25. [国庆尾声，总结一下自己的秋招](https://www.nowcoder.com/discuss/533714?from=gitnowcoder2021)
+26. [秋招之路-面经合集（字节\阿里云\腾讯云等）](https://www.nowcoder.com/discuss/556341?from=gitnowcoder2021)
+27. [秋招结束，面经回馈牛客（字节、阿里云、英伟达、滴滴等)](https://www.nowcoder.com/discuss/563162?from=gitnowcoder2021)
+28. [记录21届校招211渣硕秋招的辛酸历程，附上面经](https://www.nowcoder.com/discuss/575796?from=gitnowcoder2021)
+---
+求职之前，先上牛客。
+
+更多简历/笔试/面试/求职相关，请登录：
+
+[www.nowcoder.com](https://www.nowcoder.com?from=gitnowcoder2021)
